@@ -1,13 +1,13 @@
 h1 {
 	font-family: fantasy;
 	font-style: bold;
-	font-color: yellow;
+	color: blue;
 	font-size: xx-large;
 	margin: 20px;
 }
 h3 {
 	font-family: unset;
-	font-color: red;
+	color: blue;
 	margin: 20px;
 }
 
