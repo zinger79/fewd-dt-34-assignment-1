@@ -3,14 +3,32 @@ h1 {
 	font-style: bold;
 	font-color: yellow;
 	font-size: xx-large;
+	margin: 20px;
 }
 h3 {
 	font-family: unset;
 	font-color: red;
+	margin: 20px;
 }
 
 body {
 	background: azure;
 	font-family: helvetica;
 	font-style: normal;
+	margin: 20px;
 }
+p {
+	margin: 20px;
+}
+
+a {
+	margin: 20px;
+}
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
