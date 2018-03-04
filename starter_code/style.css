@@ -24,6 +24,10 @@ p {
 a {
 	margin: 20px;
 }
+ul {
+	font-weight: bold;
+	font-family: arial;
+}
 .resize {
     width: 400px;
     height: auto;
